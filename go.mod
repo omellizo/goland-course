@@ -1,3 +1,3 @@
-module example/hello
+module course/goland
 
 go 1.18
